@@ -7,3 +7,5 @@ const b = "prova";
 var c = 10;
 
 console.log(a); // stampa
+
+//modifica
